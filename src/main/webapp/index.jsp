@@ -7,7 +7,18 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Menu</title>
+    <title>Together</title>
+    <%-- css --%>
+    <%-- hjh705 start --%>
+    <%-- hjh705 end --%>
+    <%-- bokyunghan start --%>
+    <%-- bokyunghan end --%>
+
+    <%-- script --%>
+    <%-- hjh705 start --%>
+    <%-- hjh705 end --%>
+    <%-- bokyunghan start --%>
+    <%-- bokyunghan end --%>
 </head>
 <body>
     <h1>Together</h1>
