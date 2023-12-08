@@ -26,5 +26,6 @@
     <h1>Together</h1>
     <a href="${pageContext.request.contextPath}/hjh705">hjh705</a>
     <a href="${pageContext.request.contextPath}/bokyunghan">bokyunghan</a>
+    <a href="${pageContext.request.contextPath}/test2">test2</a>
 </body>
 </html>
