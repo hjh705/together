@@ -16,6 +16,7 @@
 
     <%-- script --%>
     <%-- hjh705 start --%>
+    <script src="https://zzz.com/zzz.js"></script>
     <%-- hjh705 end --%>
     <%-- bokyunghan start --%>
     <%-- bokyunghan end --%>
