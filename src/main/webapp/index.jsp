@@ -10,6 +10,7 @@
     <title>Menu</title>
 </head>
 <body>
-<h1>Together</h1>
+    <h1>Together</h1>
+    <a href="${pageContext.request.contextPath}/hjh705">hjh705</a>
 </body>
 </html>
